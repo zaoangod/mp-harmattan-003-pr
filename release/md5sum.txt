@@ -1,0 +1,2 @@
+f605c56b8956a14cbaff1469a1dcc6c7  mp-harmattan-003-pr.20.2011.40-4.001.deb
+26ffe71f469c2de2f4f451c7d5ef0c01  mp-harmattan-003-pr.20.2011.40-4.002.deb
