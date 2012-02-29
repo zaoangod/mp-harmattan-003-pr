@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+gconftool-2 --shutdown
+fiasco-flasher-stage /usr/share/osso/cert-sw
+osso-product-info -s OSSO_VERSION='DFL61_HARMATTAN_30.2012.07-1_PR_003' 2> /dev/null || exit 0
