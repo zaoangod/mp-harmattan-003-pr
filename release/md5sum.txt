@@ -2,4 +2,5 @@ f605c56b8956a14cbaff1469a1dcc6c7  mp-harmattan-003-pr.20.2011.40-4.001.deb
 26ffe71f469c2de2f4f451c7d5ef0c01  mp-harmattan-003-pr.20.2011.40-4.002.deb
 367ca3db1a95c1355089a656d5b59efe  mp-harmattan-003-pr_30.2012.07-1-003_all.deb
 5bd3e0ed58e1cd3cf4dd6892d840dd8a  mp-harmattan-003-pr_30.2012.07-1_all.deb
-fca98d02724133fd91034c8690324884  ReadMe.txt
+f49264bd45b973d70c564d23fa7c553b  mp-harmattan-003-pr_40.2012.21-3-004_all.deb
+bbbf7239c9b8fb54cceeae6e5b1ac0bc  ReadMe.txt
